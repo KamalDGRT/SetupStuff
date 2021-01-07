@@ -3,7 +3,6 @@
 
 ## For Windows PC
 
-
 The instructions here is for a Windows PC. <br>
 For Linux and Mac, it will be added later.
 
@@ -17,9 +16,7 @@ C:\xampp.
 Download the Xampp application from here : https://www.apachefriends.org/index.html <br>
 The download size is around 150MB. 
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 2
 
@@ -31,17 +28,13 @@ So, in C drive, there is a folder with the name LEO.<br>
        
        C:\LEO
 
-<br>
-
-
-<hr>
+<br><hr>
 
 ### Step 3
 
-
 Click on the downloaded application.<br>
         
-![UAC](img/01.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/01.png)
 
  <br>
 You might see a warning like this. This was why I told you to create the folder. <br>
@@ -55,18 +48,15 @@ Now, click OK.<br><br>
 
 Click Next.<br>
 
-![UAC](img/02.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/02.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 5
 
 Just leave all the stuff as it is and let us install everything that XAMPP can provide. <br>
 
-![UAC](img/03.png)
-
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/03.png)
 
 <hr>
 
@@ -80,10 +70,9 @@ By default, it would be <br>
   
         C:\LEO\xampp
    
-  ![UAC](img/04.png)
-<br>
+  ![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/04.png)
 
-<hr>
+<br><hr>
 
 ### Step 7
 
@@ -92,67 +81,57 @@ But, I don't want to know more about Bitnami.<br>
 So, I am just unselecting it.<br>
 Click Next.<br>
 
-![UAC](img/05.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/05.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 8
 
 Now, click Next.<br>
 The installation will go on for 5 to 10 minutes depending on your system specifications. <br>
 
-![UAC](img/06.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/06.png)
 
-<br><br>
-
-<hr>
+<br><br><hr>
 
 ### Step 9
 
 Click Finish.<br>
 
-![UAC](img/07.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/07.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 10
 
 Select English.<br>
 
-![UAC](img/08.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/08.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 11
 
 And now the Control Panel is ready.
 
-![UAC](img/09.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/09.png)
 
 <br>
 
 We will be mostly using the _Apache_ and _MySQL_ server.
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 12
 
 Start the Apache and MySQL servers.<br>
 You might get some message boxes like these.<br>
 
-![UAC](img/10.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/10.png)
 
 <br>
 
-![UAC](img/11.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/11.png)
 
 <br>
 
@@ -160,32 +139,27 @@ Just click _Allow Acess_.
 
 Now, the _Apache_ and _MySQL_ servers are up and running.
 
-![UAC](img/12.png)
-<br>
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/12.png)
 
-<hr>
+<br><hr>
 
 ### Step 13
 
 Click on Admin of _Apache_ server. <br>
 If all went fine, you should be seeing something like this: <br>
 
-![UAC](img/13.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/13.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 14
 
 Click on Admin of _MySQL_ server. <br>
 You will something like this: <br>
 
-![UAC](img/14.png)
+![UAC](https://github.com/KamalDGRT/static/blob/master/SetupStuf/xampp/img/14.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Note :
 

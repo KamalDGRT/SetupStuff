@@ -31,7 +31,7 @@ So, in C drive, there is a folder with the name LEO.<br>
  
 Click on the downloaded application.<br>
 
-![userstuff](img/01.png)
+![userstuff](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/01.png)
 
 <br>
 
@@ -41,7 +41,7 @@ Since, I am the only person who is going to use my PC, I will be installing it f
 
 ### Step 4
 
-![warning stuff](img/02.png)
+![warning stuff](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/02.png)
 
 You might see a warning like this.<br>
 This is just your PC trying to keep you safe.<br>
@@ -53,7 +53,7 @@ Just click _Yes_ or _Allow_, whatever is showing up on your PC.<br>
 
 I am going to choose the Developer Mode. <br>
 
-![warning stuff](img/03.png)
+![warning stuff](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/03.png)
 
 <br>
 
@@ -67,7 +67,7 @@ Change the location to
 
     C:\LEO\composer
 
-![Change the Download Path](img/04.png)
+![Change the Download Path](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/04.png)
 
 <br>
 
@@ -77,7 +77,7 @@ Change the location to
 
 If you have added PHP to path correctly, this option would be filled like this by default.<br>
 
-![php](img/05.png)
+![php](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/05.png)
 
 <br>
 
@@ -87,7 +87,7 @@ Click  *Next*.
 
 <hr>
 
-![php](img/06.png)
+![php](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/06.png)
 
 <br>
 
@@ -98,7 +98,7 @@ Click  *Next*.
 We are not going to use any proxy.<br>
 So, just click _Next_ and proceed. <br>
 
-![proxy](img/07.png)
+![proxy](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/07.png)
 
 <br>
 
@@ -108,14 +108,14 @@ So, just click _Next_ and proceed. <br>
 
 The setup is now ready to install _Composer_.<br>
 
-![install](img/08.png)
+![install](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/08.png)
 <br>
 
 Click _Install_.
 <br>
 <hr>
 
-![install](img/09.png)
+![install](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/09.png)
 
 <br>
 
@@ -125,7 +125,7 @@ Click _Install_.
 
 Click _Next_.
 
-![install](img/10.png)
+![install](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/10.png)
 
 <br>
 
@@ -136,7 +136,7 @@ Click _Next_.
 I don't want to view online documentation, so I am unselecting that option. <br>
 Click _Finish_.<br>
 
-![install](img/11.png)
+![install](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/11.png)
 
 <hr>
 
@@ -150,7 +150,7 @@ To check if the installation is done properly, open command prompt and type the 
 
 You must be something similar to this. <br>
 
-![install](img/12.png)
+![install](https://github.com/KamalDGRT/static/blob/master/SetupStuf/composer/img/12.png)
 
 <br>
 <hr>

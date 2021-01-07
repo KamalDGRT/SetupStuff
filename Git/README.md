@@ -5,9 +5,7 @@
 Download Git for Windows from the official website by clicking 
 <a href="https://git-scm.com/downloads" target="_blank">here</a>.
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 2 
 
@@ -18,7 +16,7 @@ So, you will be installing it to the folder you just created and I am going to p
 
 So, in C drive, there is a folder with the name LEO.
 
-          C:\LEO
+        C:\LEO
 
 <hr>
 
@@ -26,15 +24,13 @@ So, in C drive, there is a folder with the name LEO.
  
  Click on the downloaded application.<br>
 
-![Initial Warning](img/01.png)
+![Initial Warning](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/01.png)
 
 You might see a warning like this.<br>
 This is just your PC trying to keep you safe.<br>
 Just click _Yes_ or _Allow_, whatever is showing up on your PC.
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 4
 
@@ -51,11 +47,9 @@ It will look something like this :
 Just unselect it.<br>
 Click _Next_.<br>
 
-![Unselect Only show new options](img/02.png)
+![Unselect Only show new options](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/02.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 5
 
@@ -67,22 +61,18 @@ Change it to
 
     C:\LEO\Git
 
-![Change the Download Path](img/03.png)
+![Change the Download Path](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/03.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 6
 
 The default installation settings is fine; so leave it as it is.<br>
 Just click _Next_.<br>
 
-![Proceed](img/04.png)
+![Proceed](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/04.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 7
 
@@ -90,28 +80,24 @@ If you want a Folder for Git in the Start Menu, just click Next.<br>
 If you do not want it, then just select the checkbox `Dont create a Start Menu Folder`.<br>
 My advice would be, just leave stuff as it is and just click _Next_.<br>
 
-![Start Menu](img/05.png)
+![Start Menu](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/05.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 8
 
 Click _Next_.<br>
 
-![Proceed Further](img/06.png)
+![Proceed Further](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/06.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 9
 
 The default recommended setting is good.<br>
 So, just click _Next_.<br>
 
-![Proceed Further](img/07.png)
+![Proceed Further](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/07.png)
 
 <br>
 
@@ -122,89 +108,75 @@ So, just click _Next_.<br>
 The default recommended option is good.<br>
 So, just click _Next_.<br>
 
-![Proceed Further](img/08.png)
+![Proceed Further](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/08.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 11
 
 `Checkout Windows-style, commit Unix-style line endings` would be selected by default.<br>
 So, just click _Next_.<br>
 
-![Proceed Further](img/09.png)
+![Proceed Further](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/09.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 12
 
 The default recommended setting is good.<br>
 So, just click _Next_.<br>
 
-![Proceed Further](img/10.png)
+![Proceed Further](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/10.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 13
 
 The default recommended setting is good.<br>
 So, just click _Next_.<br>
 
-![Proceed Further](img/11.png)
+![Proceed Further](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/11.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 14
 
 The default recommended setting is good.<br>
 So, just click _Next_.<br>
 
-![Proceed Further](img/12.png)
+![Proceed Further](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/12.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 15
 
 Nope, we do not want to experiment new stuff because that stuff is not stable yet.<br>
 So, just click _Install_.<br>
 
-![Proceed Further](img/13.png)
+![Proceed Further](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/13.png)
 
 <br>
 And the installation begins.<br>
 
-![Installation](img/14.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/14.png)
 
-<br>
-
-<hr>
+<br><hr>
 
 ### Step 16
 
 Git is now installed.<br>
 To check if it is installed, just Launch Git Bash.<br>
 
-![Installation](img/15.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/15.png)
 
 <br>
 
 You must be getting something similar to this.<br>
 
-![Installation](img/16.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/git/img/16.png)
 
 <br>
 
 You can also check it by right clicking inside a folder and you should be seeing an option like : `Open Git Bash here`.
 
-<br>
-
-<hr>
+<br><hr>

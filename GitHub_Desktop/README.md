@@ -2,38 +2,38 @@
 
 This is a message from your system informing you that you are installing a new application.
 
-![image](img/01.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/01.png)
 
 <br>
 
-![image](img/02.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/02.png)
 
 <br>
 
-![image](img/03.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/03.png)
 
 <br>
 
-![image](img/04.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/04.png)
 
 <br>
 
-![image](img/05.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/05.png)
 
 <br>
 
-![image](img/06.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/06.png)
 
 <br>
 
-![image](img/07.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/07.png)
 
 <br>
 
-![image](img/08.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/08.png)
 
 <br>
 
-![image](img/09.png)
+![image](https://github.com/KamalDGRT/static/blob/master/SetupStuf/githubdesktop/img/09.png)
 
 <br>

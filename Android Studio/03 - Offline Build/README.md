@@ -17,13 +17,13 @@ in order to make the development faster, just download all the offline component
 
 Go to the download section of the offical Android website from [here](https://developer.android.com/studio).
 
-![Downloads](img/01.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/01.png)
 
 <br>
 
 Click on *DOWNLOAD OPTIONS*.
 
-![Downloads](img/02.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/02.png)
 
 <br>
 
@@ -31,7 +31,7 @@ Click on _Android Gradle Plugin_.<br>
 
 You will be seeing something like this.<br>
 
-![Downloads](img/03.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/03.png)
 
 <br>
 
@@ -45,7 +45,7 @@ Click on _Google Maven dependencies_.<br>
 
 You will be seeing something like this.<br>
 
-![Downloads](img/04.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/04.png)
 
 <br>
 
@@ -59,7 +59,7 @@ Based on your internet connection, it would take some time to download.
 
 <br>
 
-![Downloads](img/05.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/05.png)
 
 <hr>
 
@@ -76,7 +76,7 @@ If not, type the following. <br>
 
         set USERPROFILE
 
-![CMD](img/06.png)
+![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/06.png)
 
 <br>
 
@@ -85,7 +85,7 @@ So, I will be opening this location in my File Explorer. <br>
 
         C:\Users\user
 
-![CMD](img/07.png)
+![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/07.png)
 
 <br>
 
@@ -97,7 +97,7 @@ But the ones we are concerned about now are *.gradle* and *.android* . <br>
 Now, copy the _offline-android-gradle-plugin-preview.zip_ to *.android* folder. <br>
 Right click on that .zip file and select _Extract Here_. <br>
 
-![CMD](img/08.png)
+![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/08.png)
 
 <br>
 
@@ -107,7 +107,7 @@ For me it is *android-gradle-plugin-3.5.0-beta01*. <br>
 For you it may or may not be the same. <br>
 It all depends on when you are installing it. <br>
 
-![folder](img/09.png)
+![folder](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/09.png)
 
 <br>
 
@@ -117,7 +117,7 @@ So, in my case, I will be renaming *android-gradle-plugin-3.5.0-beta01* to *manu
 
 <br>
 
-![folder](img/10.png)
+![folder](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/10.png)
 
 <br>
 
