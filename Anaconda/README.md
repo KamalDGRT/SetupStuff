@@ -21,7 +21,7 @@ You will be seeing something like this.<br>
 
 Select _Individual Edition_. <br>
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/01.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/01.png)
 
 <br>
 
@@ -29,7 +29,7 @@ Select _Individual Edition_. <br>
 
 Select _Download_. <br>
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/02.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/02.png)
 
 <br>
 
@@ -38,7 +38,7 @@ Select _Download_. <br>
 Select the installer based on your system specification. <br>
 I have a 64bit OS, so, I will be downloading _64-Bit Graphical Installer_. <br>
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/03.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/03.png)
 
 <br>
 
@@ -46,7 +46,7 @@ I have a 64bit OS, so, I will be downloading _64-Bit Graphical Installer_. <br>
 
 Close the pop-up. <br>
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/04.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/04.png)
 
 <br>
 
@@ -63,7 +63,7 @@ Based on your internet connection, it would take some time to download.
 Click on the downloaded file and you will be seeing something like this. <br>
 Click _Next_. <br>
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/05.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/05.png)
 
 <br>
 
@@ -71,7 +71,7 @@ Click _Next_. <br>
 
 Click on _I Agree_. <br>
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/06.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/06.png)
 
 <br>
 
@@ -81,7 +81,7 @@ Since it's just me who will be using my system, I am selecting _Just Me_ option.
 
 Click _Next_. <br>
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/07.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/07.png)
 
 <br>
 
@@ -89,7 +89,7 @@ Click _Next_. <br>
 
 By default, the path would be something like this. <br>
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/08.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/08.png)
 
 <br>
 
@@ -100,7 +100,7 @@ So, just like every installation, I will be installing it to _LEO_ folder. <br>
 
 Click _Next_. <br>
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/09.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/09.png)
 
 #### Step 2.5
 
@@ -110,23 +110,23 @@ So, we will installing whatever we want using commands. <br>
 
 Click _Intall_.
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/10.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/10.png)
 
 <br>
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/11.png)
-
-<br>
-
-Click _Next_. <br>
-
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/12.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/11.png)
 
 <br>
 
 Click _Next_. <br>
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/13.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/12.png)
+
+<br>
+
+Click _Next_. <br>
+
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/13.png)
 
 <br>
 
@@ -134,7 +134,7 @@ I dont wanna know about _Annaconda Individual Edition_ and neither do I wanna _L
 
 Click _Finish_.
 
-![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/14.png)
+![Installation](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/14.png)
 
 <br>
 
@@ -150,7 +150,7 @@ To check if the installation is done properly, open command prompt and type the 
 
 You must be something similar to this. <br>
 
-![install](https://github.com/KamalDGRT/static/blob/master/SetupStuf/Anaconda/img/15.png)
+![install](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anaconda/img/15.png)
 
 <br>
 <hr>
