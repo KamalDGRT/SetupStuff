@@ -5,7 +5,7 @@ You can Download the latest installer from <a href="https://www.sublimetext.com/
 
 Select <b>DOWNLOAD FOR WINDOWS</b>.
 
-![image](https://i.imgur.com/9ArkE7G.png)
+![image](https://i.imgur.com/nrqDr2L.png)
 <br>
 
 ### Step 2 - Installing Sublime text
