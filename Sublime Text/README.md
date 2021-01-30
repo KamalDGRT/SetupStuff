@@ -45,5 +45,5 @@ Click <i>Finish</i>.
 
 ![image](https://i.imgur.com/Svf3LX1.png)
 
-
+### Now, you have successfully installed Sublime Text on your Windows PC.
 
