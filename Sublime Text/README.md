@@ -19,7 +19,7 @@ You'll see deafult the location.
 ### Step 3 
 Create a Folder in <b>C:</b>
 
-Like I have mentioned int he README.md of this repository, I will be installing it to the <i>LEO</i> folder.
+Like I have mentioned in the README.md of this repository, I will be installing it to the <i>LEO</i> folder.
 
 Click <i>Next</i>.
 
