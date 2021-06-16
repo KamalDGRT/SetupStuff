@@ -15,3 +15,9 @@ So, in C drive, there is a folder with the name LEO.<br>
 <br>
 
 This is where all the installation will happen.
+
+----
+
+Just a meme...
+
+![Meme](https://i.redd.it/fyuad9psesx21.jpg)
