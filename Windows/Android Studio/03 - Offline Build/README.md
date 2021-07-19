@@ -1,13 +1,13 @@
 # Offline Build for Gradle and Google Maven Depndencies
 
-Sometimes what happens is that your internet connection might be unstable or might not be there 
-at all. So, to build applications even though the internet is down, you need to have all the files 
-required to build it offline. 
+Sometimes what happens is that your internet connection might be unstable or might not be there
+at all. So, to build applications even though the internet is down, you need to have all the files
+required to build it offline.
 
 <br>
 
 Even though you have a good internet connection, the build process might take a lot of time. So,
-in order to make the development faster, just download all the offline components. 
+in order to make the development faster, just download all the offline components.
 
 <br>
 
@@ -17,13 +17,13 @@ in order to make the development faster, just download all the offline component
 
 Go to the download section of the offical Android website from [here](https://developer.android.com/studio).
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/01.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/01.png)
 
 <br>
 
-Click on *DOWNLOAD OPTIONS*.
+Click on _DOWNLOAD OPTIONS_.
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/02.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/02.png)
 
 <br>
 
@@ -31,7 +31,7 @@ Click on _Android Gradle Plugin_.<br>
 
 You will be seeing something like this.<br>
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/03.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/03.png)
 
 <br>
 
@@ -45,7 +45,7 @@ Click on _Google Maven dependencies_.<br>
 
 You will be seeing something like this.<br>
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/04.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/04.png)
 
 <br>
 
@@ -55,11 +55,11 @@ A file with the name _offline-gmaven-stable.zip_ will get downloaded. <br>
 
 <br>
 
-Based on your internet connection, it would take some time to download. 
+Based on your internet connection, it would take some time to download.
 
 <br>
 
-![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/05.png)
+![Downloads](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/05.png)
 
 <hr>
 
@@ -76,7 +76,7 @@ If not, type the following. <br>
 
         set USERPROFILE
 
-![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/06.png)
+![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/06.png)
 
 <br>
 
@@ -85,51 +85,51 @@ So, I will be opening this location in my File Explorer. <br>
 
         C:\Users\user
 
-![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/07.png)
+![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/07.png)
 
 <br>
 
 #### Step 2.2
 
-Inside the above mentioned path, there will be many folders.  <br>
-But the ones we are concerned about now are *.gradle* and *.android* . <br>
+Inside the above mentioned path, there will be many folders. <br>
+But the ones we are concerned about now are _.gradle_ and _.android_ . <br>
 
-Now, copy the _offline-android-gradle-plugin-preview.zip_ to *.android* folder. <br>
+Now, copy the _offline-android-gradle-plugin-preview.zip_ to _.android_ folder. <br>
 Right click on that .zip file and select _Extract Here_. <br>
 
-![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/08.png)
+![CMD](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/08.png)
 
 <br>
 
-Now, a folder will present itslef in *.android* folder. <br>
+Now, a folder will present itslef in _.android_ folder. <br>
 
-For me it is *android-gradle-plugin-3.5.0-beta01*. <br>
+For me it is _android-gradle-plugin-3.5.0-beta01_. <br>
 For you it may or may not be the same. <br>
 It all depends on when you are installing it. <br>
 
-![folder](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/09.png)
+![folder](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/09.png)
 
 <br>
 
-Now, rename that folder to *manual-offline-m2* . <br>
+Now, rename that folder to _manual-offline-m2_ . <br>
 
-So, in my case, I will be renaming *android-gradle-plugin-3.5.0-beta01* to *manual-offline-m2*.
-
-<br>
-
-![folder](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/10.png)
+So, in my case, I will be renaming _android-gradle-plugin-3.5.0-beta01_ to _manual-offline-m2_.
 
 <br>
 
-If you still have any doubts as to how the folder is arranged, click [here](dot_android.md) to see the directory structure of *.android* folder. <br>
+![folder](https://github.com/KamalDGRT/static/blob/master/SetupStuf/anstudio/offline_build/img/10.png)
 
 <br>
 
-You may now delete the _offline-android-gradle-plugin-preview.zip_ file from _.android_ folder. 
+If you still have any doubts as to how the folder is arranged, click [here](dot_android.md) to see the directory structure of _.android_ folder. <br>
 
 <br>
 
-##### To update the offline components, proceed as follows: 
+You may now delete the _offline-android-gradle-plugin-preview.zip_ file from _.android_ folder.
+
+<br>
+
+##### To update the offline components, proceed as follows:
 
 <br>
 
@@ -147,16 +147,15 @@ To tell the Android build system to use the offline components you've downloaded
 
 #### Step 3.1
 
-Go to *.gradle* folder. <br>
-Create a folder with the name *init.d*. <br>
+Go to _.gradle_ folder. <br>
+Create a folder with the name _init.d_. <br>
 Inside that folder, create this file : _offline.gradle_ <br>
-
 
 #### Step 3.2
 
 Open that with any text editor of your choice and paste the following script inside of it. <br>
 
-```
+```js
 def reposDir = new File(System.properties['user.home'], ".android/manual-offline-m2")
 def repos = new ArrayList()
 reposDir.eachDir {repos.add(it) }
